@@ -1,0 +1,5 @@
+C:\Users\bs\Source\Repos\FrontEnd\Information Radiator\Information Radiator\bin\Information Radiator.dll
+C:\Users\bs\Source\Repos\FrontEnd\Information Radiator\Information Radiator\bin\Information Radiator.pdb
+C:\Users\bs\Source\Repos\FrontEnd\Information Radiator\Information Radiator\obj\Debug\Information Radiator.dll
+C:\Users\bs\Source\Repos\FrontEnd\Information Radiator\Information Radiator\obj\Debug\Information Radiator.pdb
+C:\Users\bs\Source\Repos\FrontEnd\Information Radiator\Information Radiator\obj\Debug\Information Radiator.csprojResolveAssemblyReference.cache
